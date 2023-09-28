@@ -19,14 +19,9 @@ A Rubber Ducky (or Bad USB) is a HID Device that can be used to deliver payloads
 | Week | Content | Deliverable |
 | :--: | :-----: | :---------: |
 | 1 | Background | Ducky writeup |
-| 2 | Scripting | Write a script proving you were on a system |
-| 3 | Scripting |  |
-| 4 | Payloads | Write a payload! |
-| 5 | Payloads |  |
+| 2 - 3 | Scripting | Write a script proving you were on a system |
+| 4 - 5 | Payloads | Write a payload! |
 | 6 | Arduino/Ducky Script | Flash your Ducky with a simple payload |
-| 7 | Advanced Scripting | Write a cool Ducky project using what you learned |
-| 8 | Project |  |
-| 9 | Project |  |
-| 10 | Presentation | A finished presentation |
-| 11 | Presentation |  |
+| 7 - 9 | Advanced Scripting/Project | Write a cool Ducky project using what you learned |
+| 10 - 11 | Presentation | A finished presentation |
 | 12 | Present | A sick RITSEC lanyard, perhaps |
