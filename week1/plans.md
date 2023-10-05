@@ -12,21 +12,21 @@ Small intro to Duckies, what are they, define some terms, how are they used, etc
 Obligatory ethical disclaimer.
 
 ## Tasks
-- [ ] Names
-- [ ] Pronouns
-- [ ] Prior Knowledge
-- [ ] OS of Choice
-- [ ] Define Rubber Ducky
-    - [ ] HID
+- [x] Names
+- [x] Pronouns
+- [x] Prior Knowledge
+- [x] OS of Choice
+- [x] Define Rubber Ducky
+    - [x] HID
     - [ ] Pentesting
     - [ ] Bash, Powershell, scripting, etc.
     - [ ] Any other terms that come up
-- [ ] How does a Ducky work? (technicalities of USB/HID devices)
+- [x] How does a Ducky work? (technicalities of USB/HID devices)
 - [ ] What are Duckies used for
 - [ ] Ethics!!!
 - [ ] Share quackpack repo
-- [ ] Assign writeup (in LaTex???)
-- [ ] Github overview?
+- [x] Assign writeup (in LaTex???)
+- [x] Github overview?
 - [ ] LaTex overview?
 
 ## Meeting Notes
