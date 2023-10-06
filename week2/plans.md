@@ -9,10 +9,10 @@ Introduction to Bash, Batch, and Powershell scripting!
 Define scripting, some syntax, some examples, etc.
 
 ## Tasks
-- [ ] Define Scripting
+- [x] Define Scripting
 - [ ] Contextualize Scripting in the Context of Duckies
-- [ ] Double Check that Jupiter is Using Bash
-- [ ] Gauge Terminal Familiarity
+- [x] Double Check that Jupiter is Using Bash
+- [x] Gauge Terminal Familiarity
 - [ ] Intro to Bash
 - [ ] Intro to Batch
 - [ ] Intro to Powershell
